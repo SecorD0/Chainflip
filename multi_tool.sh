@@ -170,6 +170,7 @@ EOF
 	. <(wget -qO- https://raw.githubusercontent.com/SecorD0/utils/main/logo.sh)
 	printf_n "
 The node was ${C_LGn}launched${RES}.
+
 Remember to save files in this directory:
 ${C_LR}$HOME/chainflip_backup/${RES}
 
